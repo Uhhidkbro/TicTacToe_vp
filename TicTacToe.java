@@ -44,7 +44,7 @@ public class TicTacToe extends JFrame implements ActionListener {
         setSize(500, 600);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
-        playMusic("C:/Users/zafri/Downloads/kumpulan-lagu-barat_slipknot-before-i-forget.wav");
+        playMusic("C:/Users/zafri/Downloads/background music - vp.wav");
         showWelcomePage();
     }
 
